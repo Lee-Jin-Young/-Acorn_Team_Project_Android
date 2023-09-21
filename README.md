@@ -21,7 +21,7 @@
 ### 링크
 [![Bookmate Web](https://img.shields.io/badge/Bookmate%20Web-D5BC9E?&style=for-the-badge)](https://bookmate.life)<br>
 [![Bookmate Android](https://img.shields.io/badge/Android%20Download-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Lee-Jin-Young/-Acorn_Team_Project_Android/releases/tag/acornproject)<br>
-[![Notion](https://img.shields.io/badge/Bookmate-ffffff?style=for-the-badge&logo=notion&logoColor=000000)](https://www.notion.so/Your-Notion-Page-URL) <br>
+[![Notion](https://img.shields.io/badge/Bookmate-ffffff?style=for-the-badge&logo=notion&logoColor=000000)](https://bookmateacorn.notion.site/6e8f0be78ab24d6994a372dd2afe0977) <br>
 [![Jira](https://img.shields.io/badge/Bookmate-0052CC?style=for-the-badge&logo=jira)](https://bookmatework.atlassian.net/jira/software/projects/BOOKMATE/boards/1/timeline)<br>
 [![Github](https://img.shields.io/badge/Bookmate%20Web-181717.svg?style=for-the-badge&logo=github)](https://github.com/ar2723/Acorn_Team_Project)
 <br>
